@@ -1,0 +1,14 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+/config.txt
+/acsesskey/config.py
+
+# Python and local tooling
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.tmp.driveupload/
